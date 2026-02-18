@@ -4,6 +4,20 @@ This repository explains how to install Oracle VirtualBox and set up an Ubuntu v
 
 ---
 
+## Table of Contents
+
+- [1. Prerequisites](#1-prerequisites)
+- [2. Install VirtualBox](#2-install-virtualbox)
+- [3. Create a new Ubuntu virtual machine](#3-create-a-new-ubuntu-virtual-machine)
+- [4. Attach the Ubuntu ISO](#4-attach-the-ubuntu-iso)
+- [5. Boot the VM and install Ubuntu](#5-boot-the-vm-and-install-ubuntu)
+- [6. First boot and basic checks](#6-first-boot-and-basic-checks)
+- [7. Install VirtualBox Guest Additions](#7-install-virtualbox-guest-additions)
+- [8. Next Steps](#8-next-steps)
+- [Thank You](#thank-you)
+
+---
+
 ## 1. Prerequisites
 
 - **Host OS:** Windows, macOS, or Linux
